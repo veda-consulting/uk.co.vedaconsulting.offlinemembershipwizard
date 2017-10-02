@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/member/offlinemembershipwizard</path>
+    <page_callback>CRM_Offlinemembershipwizard_Controller_Wizard</page_callback>
+    <title>Offline Membership Wizard</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
